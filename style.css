@@ -11,7 +11,13 @@ width: 40%;
 float: left;
 }
 #leftcolumn li {
+background-color: #CCC;
 float: left;
 width: 20%;
 height: 100px;
+}
+#rightcolumn {
+width: 60%;
+min-height: 300px;
+float: right;
 }
